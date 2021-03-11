@@ -33,5 +33,5 @@ jobs:
       with:
         app-name: 'siddheshtestapp'
         slot-name: 'production'
-        publish-profile: ${{ secrets.AzureAppService_PublishProfile_666a84758ac74fe4bb4bd472cc15a656 }}
+        publish-profile: ${{ secrets.AzureAppService_PublishProfile_8fb8a2a2673449ae8a9d7db189c8a07e }}
         package: \published\
